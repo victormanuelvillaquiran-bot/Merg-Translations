@@ -1,4 +1,4 @@
-Traduccion Español<resources xmlns:tools="http://schemas.android.com/tools">
+commonMain/values-es/strings.xml<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
